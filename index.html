@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+    <script src='controller.js'></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Meu Projeto</h1>
+    </header>
+
+    <main>
+
+        <div class="title">
+            <h2>Minha loja</h2>
+        </div>
+
+        <span>Lista de produto da minha loja.</span>
+        <div class="card">
+            <div class="lineinput"></div>
+                <label">Produtos</label>
+                <input type="text" id="Produto" placeholder="Nome do Produto">
+        </div>
+
+        <div class="card">
+            <div class="lineinput"></div>
+                <label">Produtos</label>
+                <input type="text" id="Produto" placeholder="valor do Produto">
+        </div>
+
+        <div class="card">
+            <button onclick="produto.adicionar()">adicionar</button>
+            <button onclick="produto.excluir()">Deletar</button>
+        </div>
+        
+        <div class="content">
+            <table border="1">
+                <thead>
+                    <th>ID</th>
+                    <th>Produto</th>
+                    <th>Valor</th>
+                    <th>Ações</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Mesa</td>
+                        <td>1900R$</td> 
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+</body>
+</html>
