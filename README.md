@@ -1,4 +1,4 @@
-# Recuperação de Programação Web I
+# <h1 align="center"> Recuperação de Programação Web I</h1>
 
 STATUS DO PROJETO:
 
