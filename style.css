@@ -63,4 +63,19 @@ table{
 
 table th {
     background-color: grey;
+   
+}
+
+table th, td {
+    padding: 1px 5px;
+    text-align: left;
+}
+
+
+table td img{
+    width: 20px;
+}
+
+.center{
+    text-align: center;
 }
