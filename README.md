@@ -1,6 +1,7 @@
 # <h1 align="center"> Recuperação de Programação Web I</h1>
 
-> :construction: Projeto em construção :construction:
+<h4 align="center">
+> :construction: Projeto em construção :construction: </h4>
 
 // inicio do Projeto de recuperação no segundo trimestre //
 
