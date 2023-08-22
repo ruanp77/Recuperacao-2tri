@@ -13,6 +13,8 @@ DESCRIÇÃO DO PROJETO:
 
 // O projeto consiste em armazenar dados de PRODUTOS de uma loja com: ID, NOME DO PRODUTO E VALOR, assim como nós fizemos no projeto usando array //
 
-FUNCIONALIDADES:
+# :hammer: FUNCIONALIDADES DO PROJETO
 
-// A pagína tem funcionalidades como ADICIONAR um novo produto, onde será armazenado assim como no array, e também a função EXCLUIR que exclui um produto da lista// 
+- `Funcionalidade 1`: ADICIONAR, a  pagína tem funcionalidades como adicionar um novo produto, onde será armazenado assim como no array
+- `Funcionalidade 2`: EXCLUIR, a função exclui um produto da lista 
+
