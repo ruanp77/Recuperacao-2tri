@@ -1,6 +1,6 @@
 # <h1 align="center"> Recuperação de Programação Web I</h1>
 
-STATUS DO PROJETO:
+> :construction: Projeto em construção :construction:
 
 // inicio do Projeto de recuperação no segundo trimestre //
 
