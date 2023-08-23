@@ -5,8 +5,6 @@
 
 // inicio do Projeto de recuperação no segundo trimestre //
 
-TITULO DO PROJETO: 
-
 // Projeto de uma loja com sistemas de banco de dados //
 
 DESCRIÇÃO DO PROJETO:
